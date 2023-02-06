@@ -1,24 +1,20 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className='App__header'>Something something Brian Ferentz</div>
+      <div>
+        <div>Brandon is an r-tard</div>
+        <div>Trevor is a monkey brain</div>
+        <div>Guy can eat a weiner</div>
+        <div>Feels? Feels can go fuck himself</div>
+      </div>
+      <div>Stats go here</div>
+      <div>
+        <div>Boo I miss u bby</div>
+      </div>
     </div>
   );
 }
